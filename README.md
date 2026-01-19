@@ -1,4 +1,4 @@
-# Ellen - AI Companion Chatbot (Gemini Branch)
+# AI Companion Chatbot (Gemini Branch)
 
 A sentiment-aware AI companion web application with real-time voice chat designed to provide caring support and companionship. Built with Python FastAPI backend, React frontend, and **Google Gemini 2.0 Flash** for intelligent conversations with real-time sentiment analysis.
 
